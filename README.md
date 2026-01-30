@@ -13,11 +13,11 @@
 
 ## 🖼 About This Project
 
-![Resume Screenshot](./public/prakashkprajapati-resume.jpg)
-
 This repository contains multiple HTML projects, including my **single-page HTML resume** for the **Web Development Cohort 2026** assignment.
 
 **Main Resume Page:** `my_resume.html`
+
+![Resume Screenshot](./public/prakashkprajapati-resume.jpg)
 
 **Focus of this project:**
 
@@ -110,9 +110,8 @@ cd Resume/public
 
 ---
 
-## 📬 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-prakash@example.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prakash@example.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajapatisristpvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-k-prajapati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prakash_twts) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/cosfinix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walnet169471@gmail.com) 
 
 ---
 
@@ -123,6 +122,8 @@ cd Resume/public
 * 📱 Make layout fully **responsive** using Flexbox/Grid
 
 ---
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prakash.k.prajapati) 
 
 <div align="center">
 
